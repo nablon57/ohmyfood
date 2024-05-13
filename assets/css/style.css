@@ -1,0 +1,21 @@
+@media  (max-width:375px) { 
+    .logo {
+        height: 63px;
+        text-align: center;
+    }
+    .localisation {
+        font-size: 16px;
+        height: 50px;
+        background-color: #EAEAEA;
+    
+    }
+    .localisation p {
+        font-size: 16px;
+        font-weight: 500px;
+        line-height: 18.75px;; 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
